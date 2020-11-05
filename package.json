@@ -12,7 +12,7 @@
     "@gatsbystorefront/gatsby-theme-storefront-shopify": "^2.1.0",
     "gatsby": "^2.13.38",
     "gatsby-plugin-react-svg": "^3.0.0",
-    "gatsby-rehype-ghost-links": "^1.2.0",
+    "gatsby-rehype-ghost-links": "^1.6.1",
     "gatsby-rehype-prismjs": "^0.0.12",
     "gatsby-theme-ghost-dark-mode": "^1.0.6",
     "gatsby-theme-try-ghost": "^1.7.4",
