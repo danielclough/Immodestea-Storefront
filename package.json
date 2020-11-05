@@ -16,7 +16,7 @@
     "gatsby-rehype-prismjs": "^0.0.12",
     "gatsby-theme-ghost-dark-mode": "^1.0.6",
     "gatsby-theme-try-ghost": "^1.7.4",
-    "gatsby-transformer-rehype": "^1.1.4",
+    "gatsby-transformer-rehype": "^1.9.1",
     "prismjs": "^1.20.0",
     "react": "^16.8.6",
     "react-dom": "^16.8.6"
