@@ -10,7 +10,7 @@
   },
   "dependencies": {
     "@gatsbystorefront/gatsby-theme-storefront-shopify": "^2.1.0",
-    "gatsby": "^2.13.38",
+    "gatsby": "^2.24.77",
     "gatsby-plugin-react-svg": "^3.0.0",
     "gatsby-rehype-ghost-links": "^1.2.0",
     "gatsby-rehype-prismjs": "^0.0.12",
